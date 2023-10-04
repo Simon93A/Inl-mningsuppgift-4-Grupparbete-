@@ -6,5 +6,5 @@ namespace Inlämningsuppgift_4__Grupparbete_
         {
             InitializeComponent();
         }
-    }
+    }       simon test 1 
 }
