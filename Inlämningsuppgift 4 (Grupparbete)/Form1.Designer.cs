@@ -33,7 +33,11 @@
             // 
             // textBox1
             // 
+<<<<<<< HEAD
             textBox1.Location = new Point(526, 79);
+=======
+            textBox1.Location = new Point(31, 74);
+>>>>>>> upstream/master
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(200, 39);
             textBox1.TabIndex = 0;
